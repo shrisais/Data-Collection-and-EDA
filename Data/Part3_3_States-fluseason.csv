@@ -1,0 +1,607 @@
+"","x"
+"1","oklahoma"
+"2",NA
+"3",NA
+"4","ohio"
+"5","florida"
+"6","virginia"
+"7","north carolina"
+"8","colorado"
+"9","north carolina"
+"10",NA
+"11","maryland"
+"12",NA
+"13","arizona"
+"14","massachusetts"
+"15","virginia"
+"16",NA
+"17","new mexico"
+"18","michigan"
+"19",NA
+"20","michigan"
+"21","georgia"
+"22",NA
+"23","michigan"
+"24","kansas"
+"25","ohio"
+"26","connecticut"
+"27","minnesota"
+"28","nevada"
+"29","california"
+"30",NA
+"31","washington"
+"32","florida"
+"33",NA
+"34",NA
+"35","ohio"
+"36","texas"
+"37",NA
+"38","utah"
+"39",NA
+"40",NA
+"41",NA
+"42","north carolina"
+"43",NA
+"44",NA
+"45","pennsylvania"
+"46","kansas"
+"47",NA
+"48","georgia"
+"49",NA
+"50","texas"
+"51",NA
+"52","alabama"
+"53","illinois"
+"54","north carolina"
+"55","california"
+"56",NA
+"57","iowa"
+"58",NA
+"59","pennsylvania"
+"60",NA
+"61",NA
+"62",NA
+"63",NA
+"64",NA
+"65","illinois"
+"66","arizona"
+"67","georgia"
+"68","ohio"
+"69","colorado"
+"70",NA
+"71","pennsylvania"
+"72","new york"
+"73","maryland"
+"74","wisconsin"
+"75",NA
+"76","kansas"
+"77","texas"
+"78","maryland"
+"79","utah"
+"80","kansas"
+"81","kansas"
+"82","oklahoma"
+"83","minnesota"
+"84","minnesota"
+"85","minnesota"
+"86","california"
+"87","tennessee"
+"88",NA
+"89","georgia"
+"90","texas"
+"91",NA
+"92","kansas"
+"93","nebraska"
+"94","virginia"
+"95","kansas"
+"96","michigan"
+"97",NA
+"98","california"
+"99","california"
+"100","california"
+"101","massachusetts"
+"102","new jersey"
+"103","florida"
+"104","north carolina"
+"105",NA
+"106",NA
+"107","california"
+"108","texas"
+"109","pennsylvania"
+"110","maryland"
+"111","ohio"
+"112","nevada"
+"113","illinois"
+"114","north carolina"
+"115",NA
+"116",NA
+"117","ohio"
+"118",NA
+"119","california"
+"120","kansas"
+"121","illinois"
+"122","kansas"
+"123",NA
+"124",NA
+"125","california"
+"126",NA
+"127",NA
+"128",NA
+"129","florida"
+"130",NA
+"131",NA
+"132",NA
+"133","alabama"
+"134","arizona"
+"135","west virginia"
+"136","arkansas"
+"137","indiana"
+"138","kentucky"
+"139","ohio"
+"140",NA
+"141","virginia"
+"142","california"
+"143","new york"
+"144","colorado"
+"145",NA
+"146",NA
+"147",NA
+"148","texas"
+"149","wisconsin"
+"150","missouri"
+"151","tennessee"
+"152","new york"
+"153","california"
+"154",NA
+"155","texas"
+"156","texas"
+"157",NA
+"158","texas"
+"159",NA
+"160",NA
+"161","kansas"
+"162","kansas"
+"163","georgia"
+"164","texas"
+"165",NA
+"166",NA
+"167","indiana"
+"168","oklahoma"
+"169","florida"
+"170",NA
+"171","florida"
+"172","florida"
+"173","south carolina"
+"174","texas"
+"175","south carolina"
+"176","texas"
+"177","california"
+"178","florida"
+"179","south carolina"
+"180","district of columbia"
+"181","utah"
+"182",NA
+"183","texas"
+"184","california"
+"185","minnesota"
+"186","texas"
+"187","california"
+"188",NA
+"189","nebraska"
+"190",NA
+"191","massachusetts"
+"192","connecticut"
+"193",NA
+"194","new jersey"
+"195","texas"
+"196","new york"
+"197","district of columbia"
+"198","ohio"
+"199","montana"
+"200","georgia"
+"201","illinois"
+"202",NA
+"203",NA
+"204","new york"
+"205",NA
+"206","kansas"
+"207","ohio"
+"208",NA
+"209","new york"
+"210",NA
+"211","pennsylvania"
+"212",NA
+"213",NA
+"214",NA
+"215",NA
+"216",NA
+"217","illinois"
+"218",NA
+"219","florida"
+"220","virginia"
+"221",NA
+"222","maryland"
+"223","oklahoma"
+"224",NA
+"225","nevada"
+"226",NA
+"227","new york"
+"228",NA
+"229","pennsylvania"
+"230","kansas"
+"231","ohio"
+"232","ohio"
+"233",NA
+"234","south carolina"
+"235","michigan"
+"236","massachusetts"
+"237","connecticut"
+"238","texas"
+"239",NA
+"240","florida"
+"241",NA
+"242","california"
+"243",NA
+"244",NA
+"245","new jersey"
+"246","kansas"
+"247","florida"
+"248","vermont"
+"249","utah"
+"250","new york"
+"251","kansas"
+"252",NA
+"253",NA
+"254","michigan"
+"255","north carolina"
+"256","new jersey"
+"257",NA
+"258","kansas"
+"259","texas"
+"260","minnesota"
+"261","new york"
+"262",NA
+"263",NA
+"264","colorado"
+"265","ohio"
+"266",NA
+"267","texas"
+"268","minnesota"
+"269",NA
+"270",NA
+"271","south carolina"
+"272","south carolina"
+"273","connecticut"
+"274",NA
+"275",NA
+"276","virginia"
+"277",NA
+"278","kansas"
+"279","north carolina"
+"280",NA
+"281","utah"
+"282","california"
+"283","pennsylvania"
+"284","new york"
+"285","arkansas"
+"286","kansas"
+"287","oregon"
+"288","new hampshire"
+"289",NA
+"290","new york"
+"291","colorado"
+"292",NA
+"293",NA
+"294",NA
+"295",NA
+"296","texas"
+"297","washington"
+"298","california"
+"299",NA
+"300","arizona"
+"301","new jersey"
+"302",NA
+"303","washington"
+"304","texas"
+"305",NA
+"306","michigan"
+"307",NA
+"308","florida"
+"309","california"
+"310",NA
+"311",NA
+"312","illinois"
+"313","kentucky"
+"314","arizona"
+"315",NA
+"316","pennsylvania"
+"317",NA
+"318","north carolina"
+"319","massachusetts"
+"320",NA
+"321",NA
+"322",NA
+"323","california"
+"324","california"
+"325",NA
+"326","kansas"
+"327","virginia"
+"328","california"
+"329","south carolina"
+"330","oregon"
+"331","colorado"
+"332",NA
+"333","maryland"
+"334","kansas"
+"335",NA
+"336",NA
+"337",NA
+"338","kansas"
+"339","nevada"
+"340","california"
+"341","illinois"
+"342","pennsylvania"
+"343","texas"
+"344","texas"
+"345","arizona"
+"346","texas"
+"347","arizona"
+"348","oregon"
+"349","oregon"
+"350","georgia"
+"351",NA
+"352",NA
+"353",NA
+"354",NA
+"355","massachusetts"
+"356","tennessee"
+"357",NA
+"358","illinois"
+"359","colorado"
+"360",NA
+"361","arizona"
+"362",NA
+"363","kansas"
+"364",NA
+"365","kansas"
+"366",NA
+"367",NA
+"368",NA
+"369","maryland"
+"370",NA
+"371",NA
+"372","georgia"
+"373",NA
+"374",NA
+"375","utah"
+"376","california"
+"377","ohio"
+"378","illinois"
+"379","oregon"
+"380","utah"
+"381","idaho"
+"382","california"
+"383",NA
+"384",NA
+"385","california"
+"386",NA
+"387",NA
+"388","california"
+"389","new york"
+"390","iowa"
+"391","new york"
+"392","ohio"
+"393",NA
+"394","virginia"
+"395","texas"
+"396",NA
+"397",NA
+"398",NA
+"399",NA
+"400","vermont"
+"401","florida"
+"402","maryland"
+"403",NA
+"404",NA
+"405","louisiana"
+"406","california"
+"407","california"
+"408","connecticut"
+"409",NA
+"410","new jersey"
+"411",NA
+"412","north carolina"
+"413","california"
+"414","illinois"
+"415","california"
+"416",NA
+"417","texas"
+"418",NA
+"419",NA
+"420","connecticut"
+"421",NA
+"422",NA
+"423",NA
+"424",NA
+"425",NA
+"426",NA
+"427",NA
+"428",NA
+"429",NA
+"430",NA
+"431",NA
+"432",NA
+"433",NA
+"434",NA
+"435","new york"
+"436",NA
+"437","california"
+"438",NA
+"439","illinois"
+"440","texas"
+"441","kansas"
+"442",NA
+"443","arizona"
+"444",NA
+"445","kansas"
+"446","california"
+"447","california"
+"448",NA
+"449","california"
+"450","arizona"
+"451","south carolina"
+"452","new york"
+"453",NA
+"454","virginia"
+"455","illinois"
+"456",NA
+"457","missouri"
+"458","new york"
+"459","new york"
+"460","maryland"
+"461",NA
+"462",NA
+"463","massachusetts"
+"464","california"
+"465","kansas"
+"466",NA
+"467","ohio"
+"468",NA
+"469","kansas"
+"470",NA
+"471","texas"
+"472","california"
+"473","pennsylvania"
+"474",NA
+"475",NA
+"476",NA
+"477","arkansas"
+"478","tennessee"
+"479",NA
+"480","maryland"
+"481","massachusetts"
+"482",NA
+"483","maryland"
+"484","maryland"
+"485","missouri"
+"486","ohio"
+"487","california"
+"488","california"
+"489","texas"
+"490","oklahoma"
+"491",NA
+"492","michigan"
+"493",NA
+"494","south carolina"
+"495","florida"
+"496",NA
+"497","kansas"
+"498","ohio"
+"499","california"
+"500","minnesota"
+"501","texas"
+"502","north carolina"
+"503","new york"
+"504",NA
+"505",NA
+"506","district of columbia"
+"507","new york"
+"508","florida"
+"509","new jersey"
+"510","alabama"
+"511","new york"
+"512","ohio"
+"513",NA
+"514","connecticut"
+"515","texas"
+"516",NA
+"517","california"
+"518","massachusetts"
+"519","kansas"
+"520",NA
+"521","virginia"
+"522","new york"
+"523","pennsylvania"
+"524",NA
+"525",NA
+"526","california"
+"527","missouri"
+"528","washington"
+"529","washington"
+"530","virginia"
+"531","nebraska"
+"532","california"
+"533","california"
+"534",NA
+"535",NA
+"536","new york"
+"537","montana"
+"538","kansas"
+"539","oklahoma"
+"540","kansas"
+"541","oregon"
+"542","texas"
+"543","california"
+"544","california"
+"545","georgia"
+"546","north carolina"
+"547","georgia"
+"548","georgia"
+"549","texas"
+"550","new hampshire"
+"551","georgia"
+"552","illinois"
+"553","wisconsin"
+"554","new mexico"
+"555","illinois"
+"556","new jersey"
+"557","massachusetts"
+"558","new york"
+"559","florida"
+"560","missouri"
+"561",NA
+"562","florida"
+"563","nevada"
+"564","missouri"
+"565",NA
+"566","georgia"
+"567","pennsylvania"
+"568","new york"
+"569","new york"
+"570","new york"
+"571",NA
+"572","florida"
+"573",NA
+"574",NA
+"575","wisconsin"
+"576",NA
+"577","florida"
+"578",NA
+"579","ohio"
+"580","georgia"
+"581","oklahoma"
+"582",NA
+"583","pennsylvania"
+"584",NA
+"585",NA
+"586",NA
+"587",NA
+"588","california"
+"589","district of columbia"
+"590",NA
+"591","michigan"
+"592",NA
+"593",NA
+"594",NA
+"595","new mexico"
+"596",NA
+"597","texas"
+"598","arizona"
+"599","california"
+"600","texas"
+"601","wyoming"
+"602","minnesota"
+"603",NA
+"604","virginia"
+"605",NA
+"606","new york"

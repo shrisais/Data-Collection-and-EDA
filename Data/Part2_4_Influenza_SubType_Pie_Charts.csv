@@ -1,0 +1,20 @@
+Subtype,Genetic_Group,Number,Total
+B/Victoria,V1A,28,55
+B/Victoria,V1A-2Del,23,45
+B/Yamagata,Y3,317,100
+B/Yamagata,Y3V1A,0,
+B/Yamagata,Y2,0,
+H1pdm09,6B.1,253,100
+H1pdm09,6B,0,
+H1pdm09,6B.2,0, 
+H3,3C.2a,554,83
+H3,3C.2a1,104,16
+H3,3C.3a,10,1
+H3,3C.3,0,
+H3,3C.3b,0,
+Overall,Influenza A (H3N2),18068,76
+Overall,Influenza A (H1N1)pdm09,1896,8
+Overall,Influenza A (subtype unknown),348,1
+Overall,Influenza B Victoria,228,1
+Overall,Infuenza B Yamagata,2292,10
+Overall,Influenza B (Lineage Not Determined),921,4
